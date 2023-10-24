@@ -1,1 +1,3 @@
-Hi my name is Jessie
+Bye my name is Jessie
+
+My favorite color is yellow.
